@@ -1,4 +1,4 @@
-[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)]
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)]
 <h1 align="center">Hi 👋, I'm Sandip Zalte</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
